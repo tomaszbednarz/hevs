@@ -153,6 +153,3 @@ Testing and QA: *Cameron Edmond*, *Rowan Hughes*, *Lindsay Wells*, *Huyen Nguyen
 
 * Bourke, C. Bednarz, T. 2019 "Multi-Modal High-End Visualization System". Proceedings VRCAI '19 The 17th International Conference on Virtual-Reality Continuum and its Applications in Industry. 14-16 November 2019, Brisbane, Australia. BEST DEMO Award! Link [https://doi.org/10.1145/3359997.3365731](https://doi.org/10.1145/3359997.3365731). 
 
-## Contact
-
-E-mail: epicentre@unsw.edu.au
